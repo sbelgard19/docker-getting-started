@@ -4,7 +4,7 @@ next_page: app.md
 
 ## The command you just ran
 
-Congratulations! You have started the container for this tutorial!
+Congratulations, Scott! You have started the container for this tutorial!
 Let's first explain the command that you just ran. In case you forgot,
 here's the command:
 
